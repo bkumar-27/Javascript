@@ -43,7 +43,7 @@ var h = () => {
 
 console.log('DataType:', typeof h)
 
-//  Here any function Data type  allways be a Function in DataType only
+//  Here any function Data type  allways be a Function in DataType   only its Imp Point
 
 console.log(h());  // undefined  bz of no Return any value
 
